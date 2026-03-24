@@ -38,7 +38,7 @@ The algorithm consists of the following steps:
 
   ## 3. How to Run
 
-### Install
+Install
 ```bash
 pip install opencv-python numpy
 
