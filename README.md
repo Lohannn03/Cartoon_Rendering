@@ -56,20 +56,18 @@ python cartoon.py
 - 조명이 밝고 균일한 이미지
 - 색상이 비교적 뚜렷한 이미지
 
-#### 예시 1  
-Original  
-![good1](images/good1.jpg)
+## Good Case
 
-Cartoon  
-![good1_cartoon](images/good1_cartoon.jpg)
+### Original
+![Good]![Good](https://github.com/user-attachments/assets/bee6d41c-67cf-4f51-89e6-7a9204f9589e)
 
-#### 예시 2  
-Original  
-![good2](images/good2.jpg)
 
-Cartoon  
-![good2_cartoon](images/good2_cartoon.jpg)
+### Cartoon Result
+![GoodDemo]![GoodDemo](https://github.com/user-attachments/assets/b85dbfdb-8cf5-4625-a9e1-618eab750991)
 
+
+### Screenshot
+![GoodScreenshot]<img width="1919" height="1079" alt="GoodDemo(screenshot)" src="https://github.com/user-attachments/assets/3b27fdda-4718-4e5a-9958-6fc6177e8330" />
 ---
 
 ### 4.2 만화 스타일이 잘 표현되지 않는 경우
@@ -81,27 +79,18 @@ Cartoon
 - 명암 대비가 약한 이미지
 - 디테일이 너무 많은 이미지 (머리카락, 나뭇잎 등)
 
-## Good Case
-
-### Original
-![Good](images/Good.jpg)
-
-### Cartoon Result
-![GoodDemo](images/GoodDemo.jpg)
-
-### Screenshot
-![GoodScreenshot](images/GoodDemo(screenshot).png)
-
 ## Bad Case
 
 ### Original
-![Bad](images/Bad.jpg)
+![Bad]![Bad](https://github.com/user-attachments/assets/fddf2225-2987-4552-a52c-da100cee9308)
+
 
 ### Cartoon Result
-![BadDemo](images/BadDemo.jpg)
+![BadDemo]![BadDemo](https://github.com/user-attachments/assets/53217a16-d0a3-43a2-a4b1-1ff763b2994f)
+
 
 ### Screenshot
-![BadScreenshot](images/BadDemo(screenshot).png)
+![BadScreenshot]<img width="1919" height="1079" alt="BadDemo(screenshot)" src="https://github.com/user-attachments/assets/df454e34-58b6-4a25-8648-1f9dde44a875" />
 ---
 
 ## 5. 한계점 (Limitations)
