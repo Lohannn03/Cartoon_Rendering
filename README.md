@@ -84,16 +84,20 @@ Cartoon
 #### 예시 1  
 Original  
 ![good](images/Good.jpg)
+![Good](https://github.com/user-attachments/assets/94da0fc8-a642-4260-b382-47b1e295b00d)
 
 Cartoon  
 ![good_cartoon](images/GoodDemo.jpg)
+![GoodDemo](https://github.com/user-attachments/assets/286019d9-9a70-40f4-bafc-fc25363b131a)
 
 #### 예시 2  
 Original  
 ![bad](images/Bad.jpg)
+![Bad](https://github.com/user-attachments/assets/1785bcc2-75f0-46aa-8602-99db5793c437)
 
 Cartoon  
 ![bad_cartoon](images/BadDemo.jpg)
+![BadDemo](https://github.com/user-attachments/assets/a073fcb1-0d46-4494-9f89-284c4152b75d)
 
 ---
 
