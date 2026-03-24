@@ -39,10 +39,11 @@ The algorithm consists of the following steps:
   ## 3. How to Run
 
 *Install*
-bash
+
+`bash`
 pip install opencv-python numpy
 
-bash
+`bash`
 python cartoon.py
 
 ## 4. Demo
