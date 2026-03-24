@@ -59,15 +59,13 @@ python cartoon.py
 ## Good Case
 
 ### Original
-![Good]![Good](https://github.com/user-attachments/assets/bee6d41c-67cf-4f51-89e6-7a9204f9589e)
-
+![Good](https://github.com/user-attachments/assets/bee6d41c-67cf-4f51-89e6-7a9204f9589e)
 
 ### Cartoon Result
-![GoodDemo]![GoodDemo](https://github.com/user-attachments/assets/b85dbfdb-8cf5-4625-a9e1-618eab750991)
-
+![GoodDemo](https://github.com/user-attachments/assets/b85dbfdb-8cf5-4625-a9e1-618eab750991)
 
 ### Screenshot
-![GoodScreenshot]<img width="1919" height="1079" alt="GoodDemo(screenshot)" src="https://github.com/user-attachments/assets/3b27fdda-4718-4e5a-9958-6fc6177e8330" />
+<img width="1919" height="1079" alt="GoodDemo(screenshot)" src="https://github.com/user-attachments/assets/3b27fdda-4718-4e5a-9958-6fc6177e8330" />
 ---
 
 ### 4.2 만화 스타일이 잘 표현되지 않는 경우
@@ -82,15 +80,13 @@ python cartoon.py
 ## Bad Case
 
 ### Original
-![Bad]![Bad](https://github.com/user-attachments/assets/fddf2225-2987-4552-a52c-da100cee9308)
-
+![Bad](https://github.com/user-attachments/assets/fddf2225-2987-4552-a52c-da100cee9308)
 
 ### Cartoon Result
-![BadDemo]![BadDemo](https://github.com/user-attachments/assets/53217a16-d0a3-43a2-a4b1-1ff763b2994f)
-
+![BadDemo](https://github.com/user-attachments/assets/53217a16-d0a3-43a2-a4b1-1ff763b2994f)
 
 ### Screenshot
-![BadScreenshot]<img width="1919" height="1079" alt="BadDemo(screenshot)" src="https://github.com/user-attachments/assets/df454e34-58b6-4a25-8648-1f9dde44a875" />
+<img width="1919" height="1079" alt="BadDemo(screenshot)" src="https://github.com/user-attachments/assets/df454e34-58b6-4a25-8648-1f9dde44a875" />
 ---
 
 ## 5. 한계점 (Limitations)
