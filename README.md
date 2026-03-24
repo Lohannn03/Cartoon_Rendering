@@ -81,24 +81,27 @@ Cartoon
 - 명암 대비가 약한 이미지
 - 디테일이 너무 많은 이미지 (머리카락, 나뭇잎 등)
 
-#### 예시 1  
-Original  
-![good](images/Good.jpg)
-![Good](https://github.com/user-attachments/assets/94da0fc8-a642-4260-b382-47b1e295b00d)
+## Good Case
 
-Cartoon  
-![good_cartoon](images/GoodDemo.jpg)
-![GoodDemo](https://github.com/user-attachments/assets/286019d9-9a70-40f4-bafc-fc25363b131a)
+### Original
+![Good](images/Good.jpg)
 
-#### 예시 2  
-Original  
-![bad](images/Bad.jpg)
-![Bad](https://github.com/user-attachments/assets/1785bcc2-75f0-46aa-8602-99db5793c437)
+### Cartoon Result
+![GoodDemo](images/GoodDemo.jpg)
 
-Cartoon  
-![bad_cartoon](images/BadDemo.jpg)
-![BadDemo](https://github.com/user-attachments/assets/a073fcb1-0d46-4494-9f89-284c4152b75d)
+### Screenshot
+![GoodScreenshot](images/GoodDemo(screenshot).png)
 
+## Bad Case
+
+### Original
+![Bad](images/Bad.jpg)
+
+### Cartoon Result
+![BadDemo](images/BadDemo.jpg)
+
+### Screenshot
+![BadScreenshot](images/BadDemo(screenshot).png)
 ---
 
 ## 5. 한계점 (Limitations)
@@ -121,8 +124,3 @@ Cartoon
 
 본 프로젝트는 OpenCV를 이용한 기본적인 컴퓨터 비전 기법만으로도 만화 스타일 이미지를 생성할 수 있음을 보여준다.  
 비록 모든 이미지에서 완벽한 결과를 얻을 수는 없지만, 단순한 구조와 좋은 조명을 가진 이미지에서는 효과적인 결과를 얻을 수 있다.
-
----
-
-## 7. 저장소 구조 (Repository Structure)
-
