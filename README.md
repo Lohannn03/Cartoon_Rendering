@@ -146,7 +146,7 @@ Cartoon Result
 
 The output image is saved as:
 
-dragonball_cartoon_result.jpg
+![Goood Demo](dragonball_cartoon_result.jpg)
 
 Discussion
 
@@ -176,7 +176,7 @@ Cartoon Result
 
 The output image is saved as:
 
-forest_cartoon_result.jpg
+![Bad Demo](forest_cartoon_result.jpg)
 
 Discussion
 
